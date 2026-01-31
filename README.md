@@ -4,12 +4,12 @@ This repository contains automated test cases developed using Playwright for ITP
  All test scripts are located inside the tests/ folder.
 
 Prerequisites
-Node.js (version 18 or later)
+```Node.js (version 18 or later)
 npm (comes with Node.js)
 Installation Dependancies Instructions
 Step 1: Clone the repository
 git clone <repository-url>
-cd ITPM-IT23622500
+cd ITPM-IT23622500```
 
 ## Step 2: Install dependencies
 npm install
